@@ -1,2 +1,2 @@
-const main = 60
-console.log(main)
+const s = 40;
+console.log(s);
