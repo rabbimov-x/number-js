@@ -1,2 +1,2 @@
-const main = 50
+const main = 60
 console.log(main)
